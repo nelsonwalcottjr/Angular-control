@@ -13,3 +13,4 @@ Angular-control: Update changelog 2024-02-08
 Angular-control: Update changelog 2024-02-09
 Angular-control: Update changelog 2024-02-10
 Angular-control: Update changelog 2024-02-11
+Angular-control: Update changelog 2024-02-12
